@@ -1,0 +1,2 @@
+Aichata DICKO
+	PRISE EN MAIN DE GIT
